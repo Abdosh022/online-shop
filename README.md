@@ -4,12 +4,12 @@
 -The site also includes a page to view all available products.
 
 # Technologies Used
--PHP
--MySQL
--HTML
+- PHP
+- MySQL
+- HTML
 -CSS
 # How to Use
-1.Clone the repository to your local machine.
-2.Import the included database file (database.sql) into your MySQL server.
-3.Update config.php with your MySQL database credentials.
-4.Navigate to index.php in your web browser to access the site.
+1. Clone the repository to your local machine.
+2. Import the included database file (database.sql) into your MySQL server.
+3. Update config.php with your MySQL database credentials.
+4. Navigate to index.php in your web browser to access the site.
