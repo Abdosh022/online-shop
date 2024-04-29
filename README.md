@@ -1,7 +1,7 @@
 # Online Shopping Site
--This project is a simple online shopping site developed using PHP and MySQL. 
--It allows users to add new products to the store by providing a name, price, and image. Uploaded images are stored in the 'images' directory.
--The site also includes a page to view all available products.
+- This project is a simple online shopping site developed using PHP and MySQL. 
+- It allows users to add new products to the store by providing a name, price, and image. Uploaded images are stored in the 'images' directory.
+- The site also includes a page to view all available products.
 
 # Technologies Used
 - PHP
